@@ -1,0 +1,1 @@
+To get the server running just run the app.py file. Then there should be created the folder uploads and you can visit your Server by searching the url http://127.0.0.1:5000. This server only run on windows, I will be making a linux version soon too.
